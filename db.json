@@ -1,12 +1,11 @@
-[
-  {
-    "id": 1,
-    "body": "some comment",
-    "postId": 1
-  },
-  {
-    "id": 2,
-    "body": "some comment",
-    "postId": 1
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "skarudvy"
   }
-]
+}
